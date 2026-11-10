@@ -204,4 +204,4 @@ This repository serves as the official landing page for Souls of Tartarus. The s
 **Get the most recent version of Souls of Tartarus today!**
 
 ---
-**Last updated:** 2026-11-10 01:03:47 UTC
+**Last updated:** 2026-11-10 08:56:02 UTC
